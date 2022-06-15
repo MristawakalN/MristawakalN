@@ -2,7 +2,7 @@
 Programmer Beginner:
 - python
 - bash
-# Tim Bruteforce
+# Tim Three Master
 * Programming
 * Hacking {pentesting}
 * Modeling (Animator 3D)
