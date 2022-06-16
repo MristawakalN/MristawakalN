@@ -1,4 +1,5 @@
 # Muhammad Ristawakal Nuhung
+![IMG_20220217_181316_843](https://user-images.githubusercontent.com/107562693/174074534-51ef0c3e-8532-4d76-90d4-642171d52fe4.jpg)
 Programmer Beginner:
 - [***python***](https://python.org)
 - [***bash***](https://bash.org)
