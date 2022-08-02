@@ -7,6 +7,7 @@ Programmer Beginner:
 > * Programming
 > * Hacking {pentesting}
 > * Modeling (Animator 3D)
+![Tak berjudul124_20220801175347](https://user-images.githubusercontent.com/107562693/182276028-3b424305-544d-439a-871b-2ec3a652abc3.png)
 # System
 `Android`
 `Termux`
